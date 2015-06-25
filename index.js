@@ -50,6 +50,9 @@ Object.keys(messages).forEach(function (e) {
     startMessage.push('/' + e);
 });
 
+startMessage.push('Also you can specify how much news you want to get now.');
+startMessage.push('For example: /broadcasting 5');
+
 startMessage.push('Let\'s try!');
 
 bot.on('message', function (message) {
