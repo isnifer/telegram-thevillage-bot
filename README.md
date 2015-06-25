@@ -1,3 +1,3 @@
 ## The-Village.ru Bot
 
-## get updates from (@TheVillageBot)[https://telegram.me/@TheVillageBot]
+## Subscribe here [@TheVillageBot](https://telegram.me/@TheVillageBot?start)
